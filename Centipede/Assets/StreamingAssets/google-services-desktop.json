@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012549785251",
+    "firebase_url": "https://centipede-68783-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "centipede-68783",
+    "storage_bucket": "centipede-68783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012549785251:android:827d9e2086a7cece149116",
+        "android_client_info": {
+          "package_name": "com.centipede.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012549785251-r5b357v4a9i7k1icfgkt5aiioh73uq7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC5r6aMN5JpRiwi1xFrR2vIcJD09bd6DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012549785251-r5b357v4a9i7k1icfgkt5aiioh73uq7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
